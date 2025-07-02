@@ -1,0 +1,21 @@
+{
+	"devices": {
+                "model_name": "RD280U",
+                "panel_name": "MV282CVM.N11",
+                "hub": "RTK3",
+                "device_ID": "5411",
+		"scalar": "RTK4",
+                "server_version": 29,
+                "pin_share": "1064",
+		"gpo_value": "FE54",
+		"mac_support": true,
+                "scalar_version": 29,
+                "scalar_file_name": "RD280U_MV282CVM.N11_RTK3_5411_RTK4_29.bin",
+                "PD_version": 6,
+                "PD_file_name": "RD280U_PD_6.bin",
+                "scaler_start_bank": "32",
+                "scaler_flag_address": "20F8FE",
+                "flash_byte": "3",
+		"isp_speed": "100k"
+            }
+}

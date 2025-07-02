@@ -1,0 +1,39 @@
+[2024-06-14 11:31:57] Set Comm Start
+[2024-06-14 11:31:58] Set Comm end
+[2024-06-14 11:32:03] Enter ISP mode Success!
+[2024-06-14 11:32:03] ScalerType: 0x36, IDCode0: 0x10, IDCode1: 0x12
+[2024-06-14 11:34:28] Set Comm Start
+[2024-06-14 11:34:29] Set Comm end
+[2024-06-14 11:34:34] Enter ISP mode Success!
+[2024-06-14 11:34:34] ScalerType: 0x36, IDCode0: 0x10, IDCode1: 0x12
+[2025-07-02 16:01:21] Set Comm Start
+[2025-07-02 16:01:21] Set Comm end
+[2025-07-02 16:01:21] ......Do ISP Begin......
+[2025-07-02 16:01:21]  enumActionType : 5, enumSignType:0, enumIspMode:1, enumOneBankMode:0 
+[2025-07-02 16:01:22] Enter ISP mode Success!
+[2025-07-02 16:01:22] ScalerType: 0x3a, IDCode0: 0xd2, IDCode1: 0x2
+[2025-07-02 16:01:22] Flash IDCode: 0xc2,0x20,0x16,0x15,0x0,0x0,0x0,0x0,
+[2025-07-02 16:01:22] Flash Name: MX25L3206E
+[2025-07-02 16:01:22] ---Deal with Specail Flash Begin---
+[2025-07-02 16:01:22] EraseFlagType: 0x1
+[2025-07-02 16:01:22] ClearFlagBaseOnEraseType Success
+[2025-07-02 16:01:22] Bank: 0x3c, ProLen: 0xd00, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:23] Bank 60 Erase Success
+[2025-07-02 16:01:23] Bank 60 ISP Success
+[2025-07-02 16:01:23] Bank: 0x3b, ProLen: 0xc57b, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:23] Bank 59 Erase Success
+[2025-07-02 16:01:30] Bank 59 ISP Success
+[2025-07-02 16:01:30] Bank: 0x3a, ProLen: 0xff00, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:31] Bank 58 Erase Success
+[2025-07-02 16:01:39] Bank 58 ISP Success
+[2025-07-02 16:01:39] Bank: 0x39, ProLen: 0xfeff, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:40] Bank 57 Erase Success
+[2025-07-02 16:01:49] Bank 57 ISP Success
+[2025-07-02 16:01:49] Bank: 0x38, ProLen: 0xfefa, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:49] Bank 56 Erase Success
+[2025-07-02 16:01:58] Bank 56 ISP Success
+[2025-07-02 16:01:58] Bank: 0x37, ProLen: 0xfef0, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:01:59] Bank 55 Erase Success
+[2025-07-02 16:02:08] Bank 55 ISP Success
+[2025-07-02 16:02:08] Bank: 0x36, ProLen: 0xfecd, SectorErase: 0x0, SectorEraseCount: 0x0
+[2025-07-02 16:02:08] Bank 54 Erase Success
